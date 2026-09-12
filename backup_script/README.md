@@ -24,9 +24,15 @@ MikroTik_2026-09-12_RouterOS-7.19.1-backup.backup
 
 ## Installation
 
-Upload `automatic-backup.rsc` to the MikroTik router.
+Upload `RouterOS_backup.rsc` to the MikroTik router.
 
 Then import it:
 
 ```routeros
-/import automatic-backup.rsc
+/import RouterOS_backup.rsc
+```
+## Usage
+
+```routeros
+/system/script/run RouterOS_backup
+```
