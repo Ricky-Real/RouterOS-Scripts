@@ -59,6 +59,7 @@ For example:
 ```routeros
 :local wakePhrase "wake"
 ```
+**Security:** Never publish your real Telegram bot token in a public repository.
 
 ## Running the Script
 
@@ -108,8 +109,6 @@ You can view it with:
 ```routeros
 /log/print
 ```
-
-**Security:** Never publish your real Telegram bot token in a public repository.
 
 ## Additional Resources
 
