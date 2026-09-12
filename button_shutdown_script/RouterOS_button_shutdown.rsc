@@ -6,7 +6,7 @@
 # Optional Telegram notifications can be sent
 # before the router shuts down.
 
-/system/script/add name=RouterOS_button_shutdown source {
+/system/script/add name=RouterOS_button_shutdown source={
     :log info message="Shutting down in a few seconds"
     :local botToken "Place your Telegram bot token here, leave blank if you don't want to use it"
     :local chatID "Place your Telegram chat id here, leave blank if you don't want to use it"
