@@ -109,15 +109,6 @@ You can view it with:
 /log/print
 ```
 
-The values in the example configuration are placeholders:
-
-```routeros
-:local botToken "Place your Telegram bot token here"
-:local chatID "Place your Telegram chat id here"
-:local macAddress "Place the MAC address of the device which you want to send a WoL packet to";
-
-```
-
 **Security:** Never publish your real Telegram bot token in a public repository.
 
 ## Additional Resources
