@@ -2,7 +2,8 @@
 Variety of useful RouterOS scripts 
 
 ## Scripts list
-- backup_script
+- [backup_script](backup_script)
+- [button_shutdown_script](button_shutdown_script)
 
 ## Usage
 ``` 
