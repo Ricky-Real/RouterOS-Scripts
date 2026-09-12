@@ -1,6 +1,9 @@
-<<<<<<< HEAD
 # RouterOS-Scripts
 Variety of useful RouterOS scripts 
-=======
 
->>>>>>> c3ed7ec (Added first script)
+## Script-list
+- backup_script
+
+## Usage
+``` 
+Check README.md in each script's folder 
